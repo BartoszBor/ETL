@@ -1,0 +1,16 @@
+20:54:31-Dec-11-2022,ETL Job Started
+20:54:32-Dec-11-2022,Extract phase Started
+20:55:10-Dec-11-2022,ETL Job Started
+20:55:10-Dec-11-2022,Extract phase Started
+20:56:04-Dec-11-2022,ETL Job Started
+20:56:04-Dec-11-2022,Extract phase Started
+20:58:15-Dec-11-2022,ETL Job Started
+20:58:15-Dec-11-2022,Extract phase Started
+20:59:23-Dec-11-2022,ETL Job Started
+20:59:23-Dec-11-2022,Extract phase Started
+21:01:10-Dec-11-2022,ETL Job Started
+21:01:10-Dec-11-2022,Extract phase Started
+21:01:30-Dec-11-2022,ETL Job Started
+21:01:30-Dec-11-2022,Extract phase Started
+21:02:19-Dec-11-2022,ETL Job Started
+21:02:19-Dec-11-2022,Extract phase Started

@@ -1,0 +1,61 @@
+,car_model,year_of_manufacture,price,fuel,Unnamed: 0
+0,ritz,2012,4626.87,Diesel,0.0
+1,ritz,2011,3507.46,Petrol,1.0
+2,swift,2014,7388.06,Diesel,2.0
+3,ertiga,2014,8955.22,Diesel,3.0
+4,dzire,2014,8208.96,Diesel,4.0
+5,sx4,2011,4402.99,CNG,5.0
+6,dzire,2015,6940.3,Petrol,6.0
+7,800,2003,522.39,Petrol,7.0
+8,alto k10,2016,4477.61,Petrol,8.0
+9,sx4,2003,3358.21,Petrol,9.0
+10,baleno,2016,8731.34,Petrol,10.0
+11,alto k10,2014,3805.97,Petrol,11.0
+12,sx4,2008,2910.45,Petrol,12.0
+13,dzire,2014,8208.96,Diesel,13.0
+14,omni,2012,1865.67,Petrol,14.0
+15,ciaz,2014,11194.03,Petrol,15.0
+16,ritz,2013,3955.22,Petrol,16.0
+17,wagon r,2006,1567.16,Petrol,17.0
+18,ertiga,2015,8656.72,Petrol,18.0
+19,ciaz,2017,11567.16,Petrol,19.0
+20,fortuner,2012,22238.81,Diesel,20.0
+21,fortuner,2015,34328.36,Diesel,21.0
+22,innova,2017,26865.67,Diesel,22.0
+23,fortuner,2013,23880.6,Diesel,23.0
+24,innova,2005,4104.48,Petrol,24.0
+25,corolla altis,2009,5373.13,Petrol,25.0
+26,etios cross,2015,6716.42,Petrol,26.0
+27,corolla altis,2010,7089.55,Petrol,27.0
+28,etios g,2014,6119.4,Petrol,28.0
+29,fortuner,2014,29835.82,Diesel,29.0
+30,ritz,2012,4626.87,Diesel,
+31,ritz,2011,3507.46,Petrol,
+32,swift,2014,7388.06,Diesel,
+33,ertiga,2014,8955.22,Diesel,
+34,dzire,2014,8208.96,Diesel,
+35,sx4,2011,4402.99,CNG,
+36,dzire,2015,6940.3,Petrol,
+37,800,2003,522.39,Petrol,
+38,alto k10,2016,4477.61,Petrol,
+39,sx4,2003,3358.21,Petrol,
+40,baleno,2016,8731.34,Petrol,
+41,alto k10,2014,3805.97,Petrol,
+42,sx4,2008,2910.45,Petrol,
+43,dzire,2014,8208.96,Diesel,
+44,omni,2012,1865.67,Petrol,
+45,ciaz,2014,11194.03,Petrol,
+46,ritz,2013,3955.22,Petrol,
+47,wagon r,2006,1567.16,Petrol,
+48,ertiga,2015,8656.72,Petrol,
+49,ciaz,2017,11567.16,Petrol,
+50,fortuner,2012,22238.81,Diesel,
+51,fortuner,2015,34328.36,Diesel,
+52,innova,2017,26865.67,Diesel,
+53,fortuner,2013,23880.6,Diesel,
+54,innova,2005,4104.48,Petrol,
+55,corolla altis,2009,5373.13,Petrol,
+56,etios cross,2015,6716.42,Petrol,
+57,corolla altis,2010,7089.55,Petrol,
+58,etios g,2014,6119.4,Petrol,
+59,fortuner,2014,29835.82,Diesel,
